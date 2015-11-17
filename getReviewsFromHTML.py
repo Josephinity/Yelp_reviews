@@ -30,14 +30,33 @@ def getReviews(restaurant):
 from bs4 import BeautifulSoup as bs
 def htmlToDataFrame(html):
     soup = bs(html, 'html.parser')
+    #extract previous comments from the same user. Contents of this part have different tag classes which 
+    #breaks consistency of the dataframe
+    prev_reviews = [div.extract() for div in soup.find_all('div',{'class':'previous-review clearfix'})]
     #get rating list
-    page1_ratings=[float(r.get('content')) for r in soup.find_all(itemprop='ratingValue')[1:]]
+    page1_ratings=[float(r.find('meta').get('content')) 
+                   for r in soup.find_all('div',{'class':'rating-very-large'})[1:]]
     #get review list
     page1_reviews=soup.find_all('p',itemprop='description')
     page1_dates=[str(s)[15:25] for s in soup.find_all('meta',itemprop='datePublished')]
+    
     return pd.DataFrame({"review":stripHTMLTags(page1_reviews)
                          ,"review_rating":page1_ratings
-                         ,"posted_date":page1_dates})
+                         ,"posted_date":page1_dates}).append(getPreviousReviews(prev_reviews))
+     
+                                             
+#deal with the previous review issued by the same user(which adds up to over 20 comments in one page)                        
+def getPreviousReviews(prev_reviews):
+    page1_ratings=[float(r.find_all('img',{'class':'offscreen','height':'303'})[0].get('alt')[0:3]) for r in prev_reviews]
+    #get review list
+    page1_reviews=stripHTMLTags([str(r.find_all('span',{'class':'js-content-toggleable hidden'})[0]) for r in prev_reviews])
+    page1_dates=[r.find_all('span',{'class':'rating-qualifier'})[0].getText()[:25].strip('\n ') for r in prev_reviews]
+    page1_dates=[formatTime(date) for date in page1_dates]
+    return pd.DataFrame({
+                         "review":page1_reviews
+                         ,"review_rating":page1_ratings
+                         ,"posted_date":page1_dates
+                        })
                          
 #strip html tags
 import re
@@ -54,6 +73,10 @@ def timeFromNow(date):
     d0=datetime.strptime(date, "%Y-%m-%d")
     return (datetime.now()-d0).days
     
+#change format of time from m/d/Y to Y-m-d
+def formatTime(date):
+    d = datetime.strptime(date, "%m/%d/%Y")
+    return ('%i-%i-%i' %(d.year,d.month,d.day))
 
 #control which restaurnts to query for reviews from here
 reviews=reviewLists(restaurants[1:2])
