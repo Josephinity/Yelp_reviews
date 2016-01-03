@@ -1,0 +1,96 @@
+	name	rating	review_count	snippet_text	categories	is_closed	street	city	state_code	postal_code	latitude	longitude	id	url	is_claimed
+0	Yuzu Japanese Dining	3.5	115	"I'm usually not much of a writer on Yelp. But this one deserves a better score, so here's my input.
+I've been in many japanese restaurants and I think this..."	[[Japanese, japanese]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.9830917386	-77.0933647806	yuzu-japanese-dining-bethesda	http://www.yelp.com/biz/yuzu-japanese-dining-bethesda	True
+1	Tako Grill	4.0	18	I loveeeee Tako Grill - the sushi, the sushi makers, the host, the waiters and waitresses. Everyone there is so sweet and hospitable. My mom and I have been...	[[Japanese, japanese], [Sushi Bars, sushi]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.9825439	-77.0967636	tako-grill-bethesda-2	http://www.yelp.com/biz/tako-grill-bethesda-2	True
+2	Satsuma	3.5	209	This place was good! The service was good, my water was always full and they came to take our order promptly. The sushi took time so we knew it was made...	[[Sushi Bars, sushi], [Japanese, japanese], [Korean, korean]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.990093	-77.098846	satsuma-bethesda	http://www.yelp.com/biz/satsuma-bethesda	True
+3	Maki Maki	3.5	190	Ate here twice and the Hamachi just melts in my mouth each time. All the rolls I've had have been great. I love the spicy scallop roll preferably without...	[[Japanese, japanese]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.991135	-77.095253	maki-maki-bethesda	http://www.yelp.com/biz/maki-maki-bethesda	False
+4	Aji-Nippon Restaurant	4.0	42	This is a no-frills, solid option for sushi in Bethesda. If you want fresh, high quality sushi, Aji will fulfill your needs. I have tried a variety of their...	[[Japanese, japanese], [Korean, korean]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.9791380854	-77.0985604759	aji-nippon-restaurant-bethesda	http://www.yelp.com/biz/aji-nippon-restaurant-bethesda	True
+5	Hanaro Restaurant & Lounge	3.5	190	Cool Place, met a friend here after work for happy hour (this review is for the happy hour menu items only). I enjoyed several items off of the happy hour...	[[Japanese, japanese], [Sushi Bars, sushi], [Korean, korean]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.9886036515	-77.0968466252	hanaro-restaurant-and-lounge-bethesda	http://www.yelp.com/biz/hanaro-restaurant-and-lounge-bethesda	True
+6	Matuba	3.0	148	It looks like Matuba has either closed permanently, or is reopening as a Japanese carryout.  I've been going to the sushi buffet for at least ten years, and...	[[Japanese, japanese]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.9889523387	-77.0984365046	matuba-bethesda-3	http://www.yelp.com/biz/matuba-bethesda-3	True
+7	Yirasai Sushi & Cafe	4.0	93	This is the best sushi place that I been to since moving to DC. They are always very friendly here and have great service. The sushi is very fresh and...	[[Sushi Bars, sushi]]	False	7345 Wisconsin Ave	Bethesda	MD	20816	38.9657316532	-77.1070107214	yirasai-sushi-and-cafe-bethesda	http://www.yelp.com/biz/yirasai-sushi-and-cafe-bethesda	True
+8	Hinata Sushi Carry Out	4.5	84	Unbelievable selection of Japanese goods considering just how tiny this market is. Didn't expect to see every item in stock but you can get a majority of...	[[Grocery, grocery], [Sushi Bars, sushi]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.9880266526	-77.0985424519	hinata-sushi-carry-out-bethesda	http://www.yelp.com/biz/hinata-sushi-carry-out-bethesda	False
+9	Raku	3.5	316	"The first time I came here was for lunch. The service was good, no complaints, my water stayed filled and she took our order promptly. 
+
+I got the chicken..."	[[Asian Fusion, asianfusion], [Sushi Bars, sushi]]	False	7345 Wisconsin Ave	Bethesda	MD	20814	38.9817839151	-77.0961309035	raku-bethesda	http://www.yelp.com/biz/raku-bethesda	True
+10	Gochi Japanese Fusion Tapas	4.0	1562	The food at Gochi's is consistently good, the atmosphere is always fun, the service is fast and no nonsense, but the pricing is somewhat exorbitant in...	[[Japanese, japanese]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3369645624	-122.022314072	gochi-japanese-fusion-tapas-cupertino	http://www.yelp.com/biz/gochi-japanese-fusion-tapas-cupertino	False
+11	Ajito	4.0	136	"Just a tiny restaurant in a strip mall in Cupertino....I can see how it can be easily missed...
+Parking is right in the front, but I think you have to come..."	[[Japanese, japanese]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3125649855	-122.033595107	ajito-cupertino	http://www.yelp.com/biz/ajito-cupertino	True
+12	Gokaku: Japanese Tapas & Sushi	3.5	406	I have been here multiple times before and have always loved their food! I am Japanese and have been here with a group of Japanese folks that like izakaya...	[[Japanese, japanese], [Sushi Bars, sushi], [Tapas/Small Plates, tapasmallplates]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3115263134	-122.023196518	gokaku-japanese-tapas-and-sushi-cupertino	http://www.yelp.com/biz/gokaku-japanese-tapas-and-sushi-cupertino	True
+13	Gyu-Kaku Japanese BBQ	3.5	898	"Gyu Kaku is the perfect place to go to! It's a fun way to catch up with friends, have a cute date, or just grub on yummy food for foodies. 
+
+Very..."	[[Japanese, japanese], [Barbeque, bbq]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3225708	-122.0165405	gyu-kaku-japanese-bbq-cupertino	http://www.yelp.com/biz/gyu-kaku-japanese-bbq-cupertino	True
+14	Yoshida	3.5	231	They have raised the price of their lunch special steadily (the only thing I have tried here), but it's still worth it for the variety of food you get....	[[Japanese, japanese], [Sushi Bars, sushi]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3130989	-122.031868	yoshida-cupertino	http://www.yelp.com/biz/yoshida-cupertino	False
+15	Sushi Hana	3.5	149	A co-worker and I often have lunch at Sushi Hana so we obviously love it here. We always get the the peppered tuna roll and crispy deluxe and then add in...	[[Japanese, japanese], [Sushi Bars, sushi]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3226610009	-122.005978681	sushi-hana-cupertino	http://www.yelp.com/biz/sushi-hana-cupertino	False
+16	Harumi Sushi	3.5	552	Came here after I had a job interview and before another job interview because I didn't want my breath to smell wanted Japanese food. Came here during lunch...	[[Japanese, japanese], [Sushi Bars, sushi]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3219137547	-122.018899911	harumi-sushi-cupertino	http://www.yelp.com/biz/harumi-sushi-cupertino	True
+17	Sushi Kuni	3.5	393	"This place might not have the most amazing sushi/sashimi in the Bay Area but it is one of my favorite sushi restaurants regardless. 
+
+Seating is limited,..."	[[Japanese, japanese], [Sushi Bars, sushi]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3199558867	-122.032834274	sushi-kuni-cupertino	http://www.yelp.com/biz/sushi-kuni-cupertino	True
+18	One Pot Shabu Shabu	4.0	747	seeing that I've already been to the Taiwanese style hotpot on Saturday night, I decided to go with Japanese style tonight. I totally love One Pot so much...	[[Japanese, japanese], [Specialty Food, gourmet], [Do-It-Yourself Food, diyfood]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.3219700618	-122.017077263	one-pot-shabu-shabu-cupertino	http://www.yelp.com/biz/one-pot-shabu-shabu-cupertino	True
+19	Azuma Japanese Cuisine	3.5	289	"I've been coming here pretty consistently maybe once every 1-2 months for a few years now. 
+
+This place has gone over renovations and ownership within the..."	[[Japanese, japanese]]	False	19980 E Homestead Rd	Cupertino	CA	95014	37.32361	-122.01841	azuma-japanese-cuisine-cupertino	http://www.yelp.com/biz/azuma-japanese-cuisine-cupertino	True
+20	Gyu-Kaku Japanese BBQ	4.0	359	"This is hands down my fav spot in Brickell!!  
+
+The atmosphere is awesome, very hip and chic. This style is dinning is ideal  for large groups or even first..."	[[Japanese, japanese], [Barbeque, bbq]]	False	34 SW 13th St	Miami	FL	33130	25.761451	-80.194297	gyu-kaku-japanese-bbq-miami	http://www.yelp.com/biz/gyu-kaku-japanese-bbq-miami	True
+21	NAOE	4.5	208	You go to NAOE for the amazing food, unique dining experience and super personal and attentive service. It is not like anything else in Miami or the whole...	[[Japanese, japanese], [Sushi Bars, sushi], [Seafood, seafood]]	False	34 SW 13th St	Miami	FL	33131	25.7678418537	-80.1856550574	naoe-miami-3	http://www.yelp.com/biz/naoe-miami-3	True
+22	Zuma	4.0	631	"Really great Japanese food. 
+
+Had a bunch of sushi and sashimi offerings which were all really nicely prepared and very tasty
+
+Had the spicy tenderloin..."	[[Japanese, japanese]]	False	34 SW 13th St	Miami	FL	33131	25.7705622771	-80.1896830648	zuma-miami-2	http://www.yelp.com/biz/zuma-miami-2	True
+23	Shokudo	4.0	165	I would consider it safe to say that Shokudo is now one of my go to restaurants. I increased my rating to 5 stars due to consistency and freshness of the...	[[Asian Fusion, asianfusion], [Sushi Bars, sushi], [Japanese, japanese]]	False	34 SW 13th St	Miami	FL	33137	25.8190899	-80.1918488	shokudo-miami-2	http://www.yelp.com/biz/shokudo-miami-2	True
+24	Nikko By Sunshine	4.0	174	"The restaurant is small and comfy! Everybody is friendly.
+All 5 stars are for the service! Sunshine, the owner is a sunshine... for real! 
+The food is very..."	[[Asian Fusion, asianfusion], [Thai, thai], [Japanese, japanese]]	False	34 SW 13th St	Miami	FL	33131	25.761493364	-80.1904457258	nikko-by-sunshine-miami	http://www.yelp.com/biz/nikko-by-sunshine-miami	True
+25	Sumi Yakitori	4.0	89	"If you've read my other reviews on sushi places, you already know my non-racist (maybe a little) hierarchy on sushi joints...
+Japanese workers- definitely a..."	[[Japanese, japanese]]	False	34 SW 13th St	Miami	FL	33130	25.763775	-80.19368	sumi-yakitori-miami-2	http://www.yelp.com/biz/sumi-yakitori-miami-2	True
+26	Akoya Restaurant	4.5	22	"One of the best mint mojitos I've had in Miami.
+
+It was my first visit and the initial impression was a good one. Great little gem in Downtown Miami. It's a..."	[[Sushi Bars, sushi], [Japanese, japanese], [Asian Fusion, asianfusion]]	False	34 SW 13th St	Miami	FL	33131	25.7728952	-80.1919849	akoya-restaurant-miami	http://www.yelp.com/biz/akoya-restaurant-miami	True
+27	Doraku Sushi	4.0	245	"Used to be cheaper but still great value on happy hour. Get a nice crowd also. Worth checking out once in a while. 
+
+Ps. Get the ahi poke"	[[Sushi Bars, sushi], [Japanese, japanese]]	False	34 SW 13th St	Miami	FL	33130	25.7648680268	-80.1942180403	doraku-sushi-miami	http://www.yelp.com/biz/doraku-sushi-miami	True
+28	Burrito San	4.5	125	This place is located in downtown Miami and it's Asian fusion fast food. It's fresh, delicious and price point is decent for the food portions. You...	[[Asian Fusion, asianfusion], [Japanese, japanese]]	False	34 SW 13th St	Miami	FL	33131	25.7728272	-80.1917151	burrito-san-miami	http://www.yelp.com/biz/burrito-san-miami	True
+29	Moshi Moshi	4.0	133	I've been wanting to coming to this location for the longest! I bartend right down the street and always get off work so late and have no time to enjoy a...	[[Sushi Bars, sushi], [Japanese, japanese]]	False	34 SW 13th St	Miami	FL	33138	25.8418560773	-80.1844487339	moshi-moshi-miami	http://www.yelp.com/biz/moshi-moshi-miami	True
+30	Takashi	4.5	702	"There is often a very long line, so reservations are highly recommended - even at lunch.
+
+I have yet to find anything on their menu that isn't amazing.  I..."	[[Sushi Bars, sushi], [Japanese, japanese]]	False	18 W Market St	Salt Lake City	UT	84139	40.7618167251	-111.891778931	takashi-salt-lake-city	http://www.yelp.com/biz/takashi-salt-lake-city	False
+31	Kyoto Japanese Restaurant	4.0	197	"Awesome sushi! I did takeout and I can't wait to return. 
+
+Tonight, I tried the miso soup, seaweed salad, salmon avocado roll, and the Geisha roll, all..."	[[Japanese, japanese], [Sushi Bars, sushi]]	False	18 W Market St	Salt Lake City	UT	84105	40.7415	-111.86	kyoto-japanese-restaurant-salt-lake-city	http://www.yelp.com/biz/kyoto-japanese-restaurant-salt-lake-city	True
+32	Tosh's Ramen	4.0	216	"disclaimer: do not let the wait deter you from eating the best flipping ramen in the city, it is completely worth it 
+
+by my word, i will not go anywhere..."	[[Ramen, ramen]]	False	18 W Market St	Salt Lake City	UT	84115	40.73753	-111.887769	toshs-ramen-salt-lake-city-2	http://www.yelp.com/biz/toshs-ramen-salt-lake-city-2	True
+33	Naked Fish Japanese Bistro	4.0	284	"Overall very good!
+
+I went here because I did not want to wait for the lines at some of the other places in downtown, like Takashi, (I was staying at the..."	[[Sushi Bars, sushi], [Japanese, japanese]]	False	18 W Market St	Salt Lake City	UT	84101	40.7668495178	-111.893409729	naked-fish-japanese-bistro-salt-lake-city	http://www.yelp.com/biz/naked-fish-japanese-bistro-salt-lake-city	True
+34	Japan Sage Market	4.5	36	Glad I finally checked out Japan Sage for lunchtime ramen. It does hold up as a strong contender (given the price, convenience, etc.) against other lunch...	[[Grocery, grocery], [Japanese, japanese]]	False	18 W Market St	Salt Lake City	UT	84115	40.7365150452	-111.890670776	japan-sage-market-salt-lake-city	http://www.yelp.com/biz/japan-sage-market-salt-lake-city	True
+35	Yellowtail Japanese Bistro	4.0	49	I never expected to find good sushi while in SLC (we're landlocked!!!) so I was pleasantly surprised when I stumbled upon Yellowtail. My friends and I...	[[Sushi Bars, sushi], [Japanese, japanese]]	False	18 W Market St	Salt Lake City	UT	84111	40.7622185	-111.8907776	yellowtail-japanese-bistro-salt-lake-city	http://www.yelp.com/biz/yellowtail-japanese-bistro-salt-lake-city	False
+36	Koko Kitchen	3.5	139	Let me start off by saying first that it can be difficult to catch this place open if it's spur-of-the-moment, and that my wife tried a noodle plate once...	[[Japanese, japanese], [Sushi Bars, sushi]]	False	18 W Market St	Salt Lake City	UT	84111	40.7537727356	-111.882873535	koko-kitchen-salt-lake-city	http://www.yelp.com/biz/koko-kitchen-salt-lake-city	False
+37	Tsunami Restaurant & Sushi Bar	3.5	155	I'm not from the area so I was a bit skeptical about going to a sushi place in a state that is so far from the ocean. I went in for lunch during the week...	[[Sushi Bars, sushi], [Japanese, japanese], [Asian Fusion, asianfusion]]	False	18 W Market St	Salt Lake City	UT	84106	40.7223497	-111.8584641	tsunami-restaurant-and-sushi-bar-salt-lake-city	http://www.yelp.com/biz/tsunami-restaurant-and-sushi-bar-salt-lake-city	True
+38	Ichiban Sushi & Japanese Cuisine	3.5	172	"Love this place! The Las Vegas roll is spot on. 
+
+I've ordered most of the rolls on the menu and my favorites are Las Vegas, California, and the Utah. The..."	[[Japanese, japanese], [Sushi Bars, sushi]]	False	18 W Market St	Salt Lake City	UT	84111	40.76182	-111.87993	ichiban-sushi-and-japanese-cuisine-salt-lake-city	http://www.yelp.com/biz/ichiban-sushi-and-japanese-cuisine-salt-lake-city	True
+39	Bento Truck	4.0	17	Bento Truck has been hanging at the Marriott Library on the U campus for a while now and It is a glorious thing!  Now I can take a lunch hour walk and get a...	[[Japanese, japanese], [Food Trucks, foodtrucks]]	False	18 W Market St	Salt Lake City	UT	84112	40.7622336822	-111.844591065	bento-truck-salt-lake-city	http://www.yelp.com/biz/bento-truck-salt-lake-city	True
+40	Japonessa	4.0	2303	"This place is awesome. 
+Great happy hour deals:
+Every day from open - 6:30 pm and in the bar from 6:30pm-8:00pm. Late Night 10:00pm - close
+Consistant..."	[[Japanese, japanese], [Sushi Bars, sushi]]	False	1400 1st Ave	Seattle	WA	98101	47.6080894	-122.3389893	japonessa-seattle	http://www.yelp.com/biz/japonessa-seattle	True
+41	Tsukushinbo	4.0	468	"Absolutely delicious melt in your mouth cuts of sashimi! Yes! 
+
+Located in International District, Tsukushinbo seats a small number of people inside but..."	[[Japanese, japanese], [Sushi Bars, sushi]]	False	1400 1st Ave	Seattle	WA	98104	47.59985	-122.32681	tsukushinbo-seattle	http://www.yelp.com/biz/tsukushinbo-seattle	False
+42	Maneki	4.0	840	I have to make a point of saying that their staff is just the best. If you're a regular, they definitely know who you are and treat you like family....	[[Japanese, japanese], [Sushi Bars, sushi]]	False	1400 1st Ave	Seattle	WA	98104	47.59974	-122.32614	maneki-seattle	http://www.yelp.com/biz/maneki-seattle	False
+43	Suika Seattle	4.5	178	"Suika is the real deal!
+
+The BF and I have been on a serious hunt for good Japanese food since we moved here from Honolulu a few months ago. We're obsessed..."	[[Cocktail Bars, cocktailbars], [Tapas/Small Plates, tapasmallplates], [Ramen, ramen]]	False	1400 1st Ave	Seattle	WA	98122	47.6149776553	-122.323858732	suika-seattle-seattle	http://www.yelp.com/biz/suika-seattle-seattle	True
+44	Umi Sake House	4.0	2434	Their tempura game is OFF THE CHARTS. Real talk. Lightly crispy and well seasoned. I've never had tempura this good. I think they use a different oil and...	[[Sushi Bars, sushi], [Japanese, japanese]]	False	1400 1st Ave	Seattle	WA	98121	47.6133919	-122.3459702	umi-sake-house-seattle	http://www.yelp.com/biz/umi-sake-house-seattle	True
+45	Nishino	4.5	511	Came here again last week to do the Exclusive Omakase since it sounded amazing. It is a lot of food, but everything is delicious! Absolutely loved our...	[[Sushi Bars, sushi], [Japanese, japanese]]	False	1400 1st Ave	Seattle	WA	98112	47.626865892	-122.29180523	nishino-seattle	http://www.yelp.com/biz/nishino-seattle	True
+46	Shiro's	4.0	1200	"Sushigasm alert!
+
+I went to Shiro's by myself, and I sat at the bar. I should preface this by saying I enjoy sushi but my knowledge on the topic is limited...."	[[Sushi Bars, sushi], [Japanese, japanese]]	False	1400 1st Ave	Seattle	WA	98121	47.6148	-122.3473	shiros-seattle	http://www.yelp.com/biz/shiros-seattle	False
+47	Momiji	4.0	713	LOVED the green tea tiramisu. We walked in and expressed our desire for dessert, but they still served us edamame. I like that they treat their customers...	[[Japanese, japanese], [Sushi Bars, sushi]]	False	1400 1st Ave	Seattle	WA	98122	47.6147995	-122.3165512	momiji-seattle	http://www.yelp.com/biz/momiji-seattle	False
+48	Mashiko Japanese Restaurant & Sushi Bar	4.5	496	First and foremost - get a reservation. Your chances of being able to walk-in and get a table, even on a random Tuesday night, are about as good as the Cubs...	[[Japanese, japanese], [Sushi Bars, sushi]]	False	1400 1st Ave	Seattle	WA	98116	47.56038	-122.38698	mashiko-japanese-restaurant-and-sushi-bar-seattle	http://www.yelp.com/biz/mashiko-japanese-restaurant-and-sushi-bar-seattle	False
+49	Musashi's	4.0	779	"food good c:
+
+cash only, chirashi bowl, miso soup
+pleasant face feeling when eat"	[[Sushi Bars, sushi], [Japanese, japanese]]	False	1400 1st Ave	Seattle	WA	98103	47.66161	-122.34047	musashis-seattle	http://www.yelp.com/biz/musashis-seattle	True
